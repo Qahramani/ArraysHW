@@ -19,23 +19,35 @@
             //}
 
             #endregion
-            #region MyRegion
-            int[] array1 = { 1, 2, 8 };
-            int[] array2 = { 4,3,2,5,1 };
-            int counter = 0;
-            for (int i = 0; i < array1.Length; i++)
-            {
-                for (int j = 0; j < array2.Length; j++)
-                {
-                    if (array1[i] == array2[j])
-                         counter++;
-                }
-            }
-            if(counter == array1.Length)
-                Console.WriteLine("Yes");
-            else
-                Console.WriteLine("No");
+            #region Contains
+
+            //int[] array1 = { 1, 2, 8 };
+            //int[] array2 = { 4,3,2,5,1 };
+            //int counter = 0;
+            //for (int i = 0; i < array1.Length; i++)
+            //{
+            //    for (int j = 0; j < array2.Length; j++)
+            //    {
+            //        if (array1[i] == array2[j])
+            //             counter++;
+            //    }
+            //}
+            //if(counter == array1.Length)
+            //    Console.WriteLine("Yes");
+            //else
+            //    Console.WriteLine("No");
             #endregion
+            #region Adjacent duplicated elements
+            int[] array = { 1, 2, 3, 4, 5, 2, 6, 7 };
+
+            for (int i = 1; i < array.Length ; i++)
+            {
+                if (array[i] == array[i - 1])
+                    Console.WriteLine("Yes");
+            }
+            #endregion
+
+
         }
     }
 }
