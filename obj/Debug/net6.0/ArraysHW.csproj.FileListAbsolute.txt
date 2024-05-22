@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CodeAcademyPractical\ArraysHW\bin\Debug\net6.0\ArraysHW.exe
+C:\Users\User\source\repos\CodeAcademyPractical\ArraysHW\bin\Debug\net6.0\ArraysHW.deps.json
+C:\Users\User\source\repos\CodeAcademyPractical\ArraysHW\bin\Debug\net6.0\ArraysHW.runtimeconfig.json
+C:\Users\User\source\repos\CodeAcademyPractical\ArraysHW\bin\Debug\net6.0\ArraysHW.dll
+C:\Users\User\source\repos\CodeAcademyPractical\ArraysHW\bin\Debug\net6.0\ArraysHW.pdb
+C:\Users\User\source\repos\CodeAcademyPractical\ArraysHW\obj\Debug\net6.0\ArraysHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CodeAcademyPractical\ArraysHW\obj\Debug\net6.0\ArraysHW.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CodeAcademyPractical\ArraysHW\obj\Debug\net6.0\ArraysHW.AssemblyInfo.cs
+C:\Users\User\source\repos\CodeAcademyPractical\ArraysHW\obj\Debug\net6.0\ArraysHW.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CodeAcademyPractical\ArraysHW\obj\Debug\net6.0\ArraysHW.dll
+C:\Users\User\source\repos\CodeAcademyPractical\ArraysHW\obj\Debug\net6.0\refint\ArraysHW.dll
+C:\Users\User\source\repos\CodeAcademyPractical\ArraysHW\obj\Debug\net6.0\ArraysHW.pdb
+C:\Users\User\source\repos\CodeAcademyPractical\ArraysHW\obj\Debug\net6.0\ArraysHW.genruntimeconfig.cache
+C:\Users\User\source\repos\CodeAcademyPractical\ArraysHW\obj\Debug\net6.0\ref\ArraysHW.dll
